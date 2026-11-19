@@ -16,8 +16,8 @@ Data engineer with 3.5 years of production pipeline experience, now working on d
 | [DCT-Project](https://github.com/bineetsinghchadha/DCT-Project) | On-chain audit trail for AI agents that delegate to each other | Solidity, LangChain, Ollama |
 | [datafusion-variant](https://github.com/bineetsinghchadha/datafusion-variant/tree/variant_get_bool_impl) | A typed Variant getter for Apache DataFusion, on my fork | Rust, Arrow |
 
-Write-ups for each are on [my site](https://bineetsinghchadha.github.io/blog/).
+Write-ups for each are on [my site](https://bineetsinghchadha.github.io/blog/?from=github).
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/bineet-singh-chadha) · [Website](https://bineetsinghchadha.github.io/)
+[LinkedIn](https://www.linkedin.com/in/bineet-singh-chadha) · [Website](https://bineetsinghchadha.github.io/?from=github)
